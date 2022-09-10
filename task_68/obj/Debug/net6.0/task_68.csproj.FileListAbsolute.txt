@@ -1,0 +1,15 @@
+/home/cathome/Документы/c#less9/task_68/obj/Debug/net6.0/task_68.csproj.AssemblyReference.cache
+/home/cathome/Документы/c#less9/task_68/obj/Debug/net6.0/task_68.GeneratedMSBuildEditorConfig.editorconfig
+/home/cathome/Документы/c#less9/task_68/obj/Debug/net6.0/task_68.AssemblyInfoInputs.cache
+/home/cathome/Документы/c#less9/task_68/obj/Debug/net6.0/task_68.AssemblyInfo.cs
+/home/cathome/Документы/c#less9/task_68/obj/Debug/net6.0/task_68.csproj.CoreCompileInputs.cache
+/home/cathome/Документы/c#less9/task_68/bin/Debug/net6.0/task_68
+/home/cathome/Документы/c#less9/task_68/bin/Debug/net6.0/task_68.deps.json
+/home/cathome/Документы/c#less9/task_68/bin/Debug/net6.0/task_68.runtimeconfig.json
+/home/cathome/Документы/c#less9/task_68/bin/Debug/net6.0/task_68.dll
+/home/cathome/Документы/c#less9/task_68/bin/Debug/net6.0/ref/task_68.dll
+/home/cathome/Документы/c#less9/task_68/bin/Debug/net6.0/task_68.pdb
+/home/cathome/Документы/c#less9/task_68/obj/Debug/net6.0/task_68.dll
+/home/cathome/Документы/c#less9/task_68/obj/Debug/net6.0/ref/task_68.dll
+/home/cathome/Документы/c#less9/task_68/obj/Debug/net6.0/task_68.pdb
+/home/cathome/Документы/c#less9/task_68/obj/Debug/net6.0/task_68.genruntimeconfig.cache
